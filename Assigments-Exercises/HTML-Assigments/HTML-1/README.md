@@ -15,7 +15,7 @@ This assignment will guide you in creating your first HTML webpage from scratch.
    - Copy and paste the following code into `index.html`:
 
      ```html
-     <!DOCTYPE html>
+     <!DOCTYPE html> 
      <html>
      <head>
          <title>My First Webpage</title>
